@@ -1,16 +1,34 @@
-# React + Vite
+# Inventory & Sales Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, full-featured **Inventory & Sales Management System** designed to streamline business operations, track stock levels, manage point-of-sale (POS) transactions, and monitor financial metrics in real-time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* **Real-Time Dashboard**: Overview of total products, stock levels, total sales, revenue, expenses, and net profit.
+* **Product Management**: Add, update, view, and organize store inventory efficiently.
+* **POS / Sales System**: Fast point-of-sale interface to process customer orders instantly.
+* **Customer Management**: Maintain a clean database of customer details and purchase histories.
+* **Credit / Ledger Tracking**: Keep track of dues, credit transactions, and ledgers.
+* **Expense Management**: Log and monitor business expenses seamlessly.
+* **Reports & Analytics**: Visual charts and tables tracking sales trends, revenue vs. expenses, and low-stock alerts.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Frontend**: React.js (Vite)
+* **Styling**: Modern CSS / Custom Layouts
+* **Icons & UI Elements**: Responsive Sidebar and Dashboard Components
+* **Deployment**: Vercel / GitHub Pages
+
+---
+
+## 📦 Installation & Setup Instructions
+
+To run this project locally on your machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Bushraasghar995/inventory-dashboard.git](https://github.com/Bushraasghar995/inventory-dashboard.git)
